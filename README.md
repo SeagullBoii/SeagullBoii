@@ -1,37 +1,21 @@
-# EL1AS // ENGINE PORTFOLIO INTERFACE
+# Elias
 
-> SYSTEM STATUS: ACTIVE  
-> ROLE PROFILE: Game Engine Developer / Web Developer  
-> FOCUS: Rendering systems, gameplay architecture, interactive web experiences
+Game engine and systems developer focused on rendering, gameplay architecture, and web development.
 
----
-
-## [PROFILE]
-
-Name: Elias  
-Specialization: Low-level game systems, rendering pipelines, interactive web development  
-Interest Areas: Engine architecture, real-time graphics, simulation systems, UI systems
-
-I build systems from the ground up to understand how rendering, gameplay, and interaction actually work.
+I work across C++ engine development, Unity gameplay systems, and modern web applications using React.
 
 ---
 
-## [ACTIVE PROJECTS]
+## Focus
 
-### > Renderer Core (SFML / C++)
-Custom raycasting and sector-based rendering engine.
-Focus: DDA traversal, texture projection, spatial optimization.
-
-### > Game Prototype Pipeline (Unity)
-Gameplay systems, movement logic, interaction loops, and prototype scaling architecture.
-
-### > Web Interactive Systems
-Frontend development with interactive UI systems and component-driven architecture.
-Focus: React-based interfaces and performance-aware design.
+- Real-time rendering systems (SFML / custom engines)
+- Gameplay systems and architecture (Unity)
+- Web development (React, frontend architecture)
+- Experimental tools and prototypes
 
 ---
 
-## [TECH STACK]
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,7 +23,7 @@ Focus: React-based interfaces and performance-aware design.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Engines / Frameworks
+### Tools & Frameworks
 ![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
@@ -48,18 +32,29 @@ Focus: React-based interfaces and performance-aware design.
 
 ---
 
-## [SYSTEM STATS]
+## Projects
 
-```text
-CORE MODULES:
-- Rendering Systems: ACTIVE
-- Gameplay Architecture: ACTIVE
-- Web Interfaces: ACTIVE
-- Engine Experiments: ACTIVE
+**Engine Development**
+- Custom raycasting / sector rendering engine in C++
+- Focus on low-level rendering and performance
 
-CURRENT FOCUS LOAD:
-- C++ Engine Development
-- Unity Gameplay Prototyping
-- Web UI Systems (React)
+**Game Development**
+- Gameplay prototypes in Unity
+- Systems for movement, interaction, and combat loops
 
-BUILD STATUS: IN DEVELOPMENT
+**Web Development**
+- React-based frontend applications
+- Component-driven UI design and interactive layouts
+
+---
+
+## Approach
+
+I prioritize understanding systems at a low level before using higher-level abstractions.  
+Most of my work is focused on building foundational knowledge through practical implementation.
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
