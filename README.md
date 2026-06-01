@@ -52,9 +52,3 @@ I work across C++ engine development, Unity gameplay systems, and modern web app
 
 I prioritize understanding systems at a low level before using higher-level abstractions.  
 Most of my work is focused on building foundational knowledge through practical implementation.
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
